@@ -86,7 +86,13 @@
   https://www.aliexpress.com/item/32823840528.html?spm=2114.12010612.8148356.3.76653b06dVCu29
   ![MKS_TFT70](https://github.com/makerbase-mks/MKS-TFT-Hardware/blob/master/Image/MKS_TFT70.png "MKS_TFT70")
   
-# Note
+## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
-- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook and GitHub and YouTube. Thank you!
-![](https://github.com/makerbase-mks/MKS-Robin-Nano/blob/master/hardware/Image/MKS_FGA.png)
+- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook/Twitter/Discord/Reddit/Youtube and Github. Thank you!
+- MKS Github: https://github.com/makerbase-mks  
+- MKS Facebook: https://www.facebook.com/Makerbase.mks/  
+- MKS Twitter: https://twitter.com/home?lang=en  
+- MKS Discord: https://discord.gg/4uar57NEyU
+- MKS Reddi![mks_link](https://user-images.githubusercontent.com/12979070/149612342-86af5a0e-cb96-41ef-9f90-4165cdccbfdd.png)
+t: https://www.reddit.com/user/MAKERBASE-TEAM/ 
+
