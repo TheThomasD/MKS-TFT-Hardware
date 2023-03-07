@@ -1,3 +1,12 @@
+# MKS IPS50
+## Features
+- 5.0 inch Capacitive Screen
+- HDMI & TypeC USB interface
+- 800*480 pixel RGB interface
+- Can be connected to MKS SKIPR, MKS Pi
+- Support DC12~24V power input
+- Run Klipper Screen
+
 # MKS TFT35
 ## Features
 - 3.5 inches touch screen, 
